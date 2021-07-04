@@ -1,5 +1,3 @@
-# Project-Noah-Backup-HK
-
 # 什麼是Project Noah Backup Hong Kong
 
   
