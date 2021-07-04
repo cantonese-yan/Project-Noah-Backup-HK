@@ -1,0 +1,6 @@
+{
+    "input_file": "input.txt",
+    "cookie_file": "facebook.com_cookies.txt",
+    "sleep_interval" : 50,
+    "max_sleep_interval" : 70
+}

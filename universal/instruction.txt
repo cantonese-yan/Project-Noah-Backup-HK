@@ -1,0 +1,10 @@
+- To install run this in console:
+pip3 install -e ./youtube-dl
+
+
+- when done with the project, run this to clean dependency
+pip3 uninstall youtube-dl
+
+
+- when the input file (input.txt) is prepared with the links, ready to be download, run this command
+python3 main.py
