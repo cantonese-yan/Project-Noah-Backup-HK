@@ -147,7 +147,8 @@
 -   300-500GB of harddrive space
     
 
-  
+# 文件地方
+windows版本同link發布地方暫存於 https://drive.google.com/drive/folders/1MqRfIUbSCqgh7qQmiAj4lfuxpOiADlrB?usp=sharing
 
 # Instruction 1 使用說明 Installing 安裝
 
