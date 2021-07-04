@@ -1,6 +1,8 @@
 # Project-Noah-Backup-HK
 
-# 什麼是Project Noah Backup Hong Kong  
+# 什麼是Project Noah Backup Hong Kong
+
+  
 
 短短幾日裡面，香港嘅輿論自由同文化自由嘅生態都急劇惡化，呢一場暴風雨可能只係山雨欲來嘅前奏。唔知仲能唔能夠再擁有，首先我哋要唔去忘記。
 
@@ -123,74 +125,6 @@
 然而，由於工作量極大，同時可能需要海量儲存空間。 所以，我哋希望更加多有心人可以加入，為整個計劃盡一分力。
 
   
-
-# 我可以點參與
-
--   ## 有乜要求？
-    
-
--   只要行緊 Windows 10, Mac, 甚至Linux，硬盤有500GB左右多餘嘅空間，就可以做backup啦
-    
--   有基本電腦操作經驗會幫到唔少
-    
-
--   ## 我淨係想backup自己感興趣嘅 facebook video做收藏， 冇打算分享出來
-    
-
--   完全冇問題。更多人分散式存儲檔案會對日後檔案保存做出貢獻。
-    
--   現階段Project Noah嘅下載程序同video links係完全開放俾大眾下載
-    
--   你只需要根據 instruction guide 安裝設定好程序就可以用。
-    
-
--   ## 我有硬盤空間， 又想幫手做backup，做Data Keeper
-    
-
--   好多謝你嘅熱心。
-    
--   我哋初步準備咗一個工作清單 keep track住每一個backup點由邊個負責，邊個持有。
-    
--   你可以加入telegram channel，我哋會同你跟進，記錄你嘅asset持有清單 [https://t.me/ProjectNoahBackupHK](https://t.me/ProjectNoahBackupHK)
-    
--   之後我哋需要將資料上傳去 IPFS嘅時候，我哋會問你索取翻你下載嘅資料
-    
-
--   ## 我吾識整電腦，但知道更多(facebook)video檔案想同你哋報料，希望你哋可以幫手備份
-    
-
--   非常歡迎你幫我哋提供資料
-    
--   加入TG channel同我哋報料， 我哋會有專人聯絡你。
-    
-
-
-# Backup咗啲嘢，咁又可以點啊？
-
--   最終目的係將備份翻來嘅數據放上 IPFS 做永久保存。
-    
--   但上載之前需要對每一個video嘅內容數據生成一份meta data, 用搜索引擎將距地合理索引。
-    
--   等日後需要研究歷史事件時，我哋可以通過搜索，歸類，關聯尋找到需要嘅文件。
-    
--   呢個係 Project Noah嘅 Stage 2 安排。
-    
-
-# 補充  
-
-備份嘅數據現階段只係作為收藏應急用途，雖然真心希望永遠都吾需要用到呢啲備份。但你我都知香港嘅新聞自由已經蕩然無存，跟住落來，未來會點發展，歷史會點樣被扭曲，我哋只可以做最壞打算。
-
-  
-
-因此，我哋對歷史可以做到嘅問心無愧，就係盡可能備份真相，並傳播卑每一個真香港人，甚至世界上每一個國。讓真相傳承下去。
-
-
-如果有意見反饋，或者想一齊參與，請到telegram
-
-[https://t.me/ProjectNoahBackupHK](https://t.me/ProjectNoahBackupHK)
-
-
-
 
 # Requirement 系統和硬件要求
 
